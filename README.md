@@ -75,7 +75,7 @@ video_files = ['your_file_name_here', 'your_file_name_here', 'your_file_name_her
 ```
 
 ➡️ Replace with your own video file names.  
-📁 Make sure the videos are in the same folder as `st_dy_f.py`.
+📁 Make sure the videos are in the same folder as `video_qos_manager.py`.
 
 ---
 
